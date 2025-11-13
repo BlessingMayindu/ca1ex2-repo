@@ -22,3 +22,5 @@ git remote add origin https://github.com/BlessingMayindu/ca1ex2-repo.git
 git push -u origin main
 git pull origin main
 Get History | ? CommandLine -match "git" | % CommandLine > ca1ex2.txt
+
+https://github.com/BlessingMayindu/ca1ex2-repo/tree/main
