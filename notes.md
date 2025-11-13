@@ -1,0 +1,5 @@
+these
+are
+my
+development
+notes
